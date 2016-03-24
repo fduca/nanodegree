@@ -1,8 +1,10 @@
-# nanodegree
+# My App Portfolio
 Android Udacity Nanodegree Project  
-Please refer to the specific README.md in the branch for more information
+Design and build a layout in Android Studio for an app that showcases your app portfolio. Each button represents an app that you'll build in the Nanodegree program.
 
-## Branches
-- project-0 : Android nanodegree - My App Portfolio
-- project-1 : Android nanodegree - Popular Movies, Stage 1
-- project-2 : Android nanodegree - Popular Movies, Stage 2
+## Getting started
+1.Clone the project in your computer  
+2.Open the project using Android Studio (File->Open...->Choose the directory where you have clone the project)  
+3.Build the project (Build->Rebuild the project)  
+4.Start the application  
+
